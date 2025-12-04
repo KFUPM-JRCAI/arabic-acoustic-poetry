@@ -1,0 +1,40 @@
+# Core dependencies for Arabic Acoustic Poetry Meter Classification
+# Note: These notebooks were developed and tested on Google Colab
+
+# Deep Learning & Transformers
+torch>=1.10.0
+torchaudio>=0.10.0
+transformers>=4.22.0
+datasets>=2.0.0
+tensorflow>=2.8.0
+
+# Audio processing
+librosa>=0.9.0
+soundfile>=0.11.0
+pydub>=0.25.0
+
+# Machine Learning & Data Science
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Arabic text processing
+PyArabic>=0.6.0
+arabic-reshaper>=2.1.0
+python-bidi>=0.4.2
+lang-trans>=0.6.0
+
+# Evaluation metrics
+jiwer>=2.3.0
+
+# Language Model (for ASR enhancement)
+# Note: KenLM installation may require system dependencies
+# On Google Colab, install with: !pip install https://github.com/kpu/kenlm/archive/master.zip
+
+# Additional utilities
+tqdm>=4.62.0
