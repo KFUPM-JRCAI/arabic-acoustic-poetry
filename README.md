@@ -96,7 +96,7 @@ baseline_dataset = load_dataset("KFUPM-JRCAI/arabic-acoustic-poetry-baseline")
 benchmark_datasest = load_dataset("KFUPM-JRCAI/arabic-acoustic-poetry-benchmark")
 ```
 
-### Running Models
+### Running the code
 
 1. **Data Exploration**: Start with `dataset_explorer.ipynb`
 2. **Training**: e.g. Run `Wav2vecWithKenLMPatrickFinetunedWav2vec.ipynb`
