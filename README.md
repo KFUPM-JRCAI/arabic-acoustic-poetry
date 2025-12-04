@@ -11,7 +11,7 @@ This repository contains the implementation for poem meter classification of rec
 
 Our findings demonstrate that the transcription-based approach, which combines two high-resource systems, effectively addresses this low-resource task, achieving F1-scores between 80% and 87%.
 
-## Key Features
+## Features
 
 - Two complementary datasets: baseline training dataset and public benchmark evaluation set
 - Integration of Wav2Vec2 for speech recognition with specialized meter classification
