@@ -133,10 +133,10 @@ benchmark_datasest = load_dataset("KFUPM-JRCAI/arabic-acoustic-poetry-benchmark"
 If you use this code or datasets, please cite:
 
 ```bibtex
-@article{alshaibani2025poem,
-  title={Poem Meter Classification of Spoken Arabic Poetry: Integrating High-Resource Systems for a Low-Resource Task},
-  author={Al-Shaibani, Maged S. and Alyafeai, Zaid and Ahmad, Irfan and Al-Zahrani, Abdul Kareem Saleh},
-  journal={PeerJ Computer Science},
+@article{al2025poem,
+  title={Poem Meter Classification of Recited Arabic Poetry: Integrating High-Resource Systems for a Low-Resource Task},
+  author={Al-Shaibani, Maged S and Alyafeai, Zaid and Ahmad, Irfan},
+  journal={arXiv preprint arXiv:2504.12172},
   year={2025}
 }
 ```
